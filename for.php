@@ -8,7 +8,7 @@
     </head>
     <body>
         <?
-            echo "-----------------<br>";
+            echo "---multiplication tables(two to nine)---<br>";
                 
             for($a=2; $a<=9; $a++){
                 for($b=1; $b<=9; $b++){
@@ -20,7 +20,8 @@
             }
         
          
-        
+            echo "---increase by one star---<br>";
+       
             for($a=1; $a<=10; $a++){
                 
                 for($b=1; $b<=$a; $b++){
