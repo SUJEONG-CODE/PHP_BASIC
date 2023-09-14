@@ -1,4 +1,4 @@
-# basic_php
+# BASIC_PHP
 
-
-for.php
+ 
+This website is a PHP website built. I developed it using minimal logic and sign up form
