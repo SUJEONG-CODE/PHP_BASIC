@@ -1,4 +1,17 @@
 # BASIC_PHP
 
- 
-This website is a PHP website built. I developed it using minimal logic and sign up form
+🖥️ **PHP 기초 학습 프로젝트**
+
+이 프로젝트는 PHP를 이용해 제작한 웹사이트 예제입니다.  
+회원가입, 로그인, 메모, 점수 관리 등의 기능을 구현하면서 PHP의 기초 문법과 데이터베이스 연동을 학습할 수 있습니다.
+
+## 주요 기능
+- 회원가입 / 로그인 / 로그아웃
+- 아이디 및 닉네임 중복 검사
+- 간단한 메모 작성 및 댓글 기능
+- 학생 점수 등록, 조회, 삭제 (DB 연동)
+- PHP 배열, 함수, 반복문 등 기초 문법 예제 포함
+
+## 사용 방법
+1. 저장소를 클론하거나 다운로드합니다. 
+   git clone https://github.com/SUJEONG-CODE/PHP_BASIC.git
